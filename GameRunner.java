@@ -16,6 +16,8 @@ public class GameRunner
       put.separate(input);
       
       System.out.println (put.conclude());
+      System.out.println ("Github sucks");
+      System.out.println ("Github sucks");
       System.out.println ("1");
     
     System.exit(0);
