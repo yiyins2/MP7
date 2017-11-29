@@ -16,7 +16,7 @@ public class GameRunner
       put.separate(input);
       
       System.out.println (put.conclude());
-      System.out.println ("1");
+      System.out.println ("2");
     
     System.exit(0);
   }
