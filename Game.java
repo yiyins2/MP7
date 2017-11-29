@@ -26,6 +26,8 @@ public class Game
                    {0,0,0,0},
                    {0,0,0,0},
                    {0,0,0,0}};
+                   
+                   
   
   public void separate(String unsep)
   {
